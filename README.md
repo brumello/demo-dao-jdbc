@@ -1,6 +1,6 @@
 # Projeto DAO JDBC
 
-Sistema de banco de dados de uma loja com departamentos e vendedores, aonde foi utilizada a API JDBC e padrão de projeto Data Acces Object (DAO)
+Sistema de banco de dados de uma loja com departamentos e vendedores, com implementações de operações como, delete, upgrade, insert, findById e findAll. Aonde foi utilizada a API JDBC e padrão de projeto Data Acces Object (DAO)
 
 ## Assets
 
